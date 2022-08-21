@@ -1,7 +1,4 @@
 # Gram-Matrix Metric (GM) and Gram-Matrix Cosine Distance Metric (GMcos)
-#Paper Title: Param-Sensing Metrics: A Study on Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures
-#Authors: <ANONYMIZED>
-
 ## INSTALLATION STEPS
 conda create -n venv_gm python=3.8 ipykernel numba
 conda activate venv_gm

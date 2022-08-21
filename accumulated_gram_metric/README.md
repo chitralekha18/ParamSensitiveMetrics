@@ -1,7 +1,4 @@
 # Accumulated Gram Metric Computation (AGM)
-# Paper Title: Param-Sensing Metrics: A Study on Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures
-# Authors: <ANONYMIZED>
-
 ## INSTALLATION STEPS
 conda create -n venv_agm python=3.8 ipykernel numba
 conda activate venv_agm
