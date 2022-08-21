@@ -1,7 +1,7 @@
 # Paper Title: Param-Sensing Metrics: A Study on Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures
 ## Authors: Chitralekha Gupta, Yize Wei, Zequn Gong, Purnima Kamath, Zhuoyao Li, Lonce Wyse
 
-## accepted for publication aISMIR 2022
+## accepted for publication at ISMIR 2022
 
 This folder contains four sub-folders:
 1. "samples" - contains 11 audio files as an example. The codes in the other folders refer to this folder.
